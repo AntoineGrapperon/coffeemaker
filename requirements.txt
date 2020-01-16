@@ -1,2 +1,2 @@
-time
-datetime
+pytz > 2019.3
+dateutils > 0.6.7
